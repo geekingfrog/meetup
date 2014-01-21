@@ -202,19 +202,17 @@ Advanced debugging tool.
 * [Chrome](https://developers.google.com/chrome-developer-tools/docs/console)
 * [Firefox](https://developer.mozilla.org/en/docs/Tools)
 
+---
 
-<!--
-yeoman = npm + bower + grunt (present each of them)
-livereload
+# Conclusion
 
-demo yeoman with a js app and sass (ember + foundation ?)
+* Learn to use your tools
+* Automate as much as possible
+* Use a build step (automation)
+* Minimize friction
 
-dev tools
-* workspaces (edit files)
+---
 
+# Thank you
 
-testing
-* qunit / mocha / karma
-* phantomjs (research about firefox engine inside)
-* research about online tool for browser support
--->
+## Q&A
